@@ -5,9 +5,9 @@
 }
 
 :root {
-    --primary-color: #7e5637;      /* Marrón madera */
-    --secondary-color: #997745;    /* Mostaza suave */
-    --accent-color: #111111;       /* Gris muy oscuro para secciones */
+    --primary-color: #d4935ea9;      /* Marrón madera */
+    --secondary-color: #997c51;    /* Mostaza suave */
+    --accent-color: #070707;       /* Gris muy oscuro para secciones */
     --background-color: #000000;   /* Negro intenso */
     --text-dark: #ffffff;          /* Blanco hueso para textos */
     --text-light: #fdfdfd;          /* Gris claro para textos secundarios */
