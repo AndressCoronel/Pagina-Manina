@@ -5,13 +5,13 @@
 }
 
 :root {
-    --primary-color: #6B4A2F;      /* Marrón madera */
-    --secondary-color: #C89D5D;    /* Mostaza suave */
-    --accent-color: #1A1A1A;       /* Gris muy oscuro para secciones */
+    --primary-color: #7e5637;      /* Marrón madera */
+    --secondary-color: #997745;    /* Mostaza suave */
+    --accent-color: #111111;       /* Gris muy oscuro para secciones */
     --background-color: #000000;   /* Negro intenso */
-    --text-dark: #F8F7F3;          /* Blanco hueso para textos */
-    --text-light: #CFCFCF;          /* Gris claro para textos secundarios */
-    --white: #F8F7F3;               /* Blanco hueso */
+    --text-dark: #ffffff;          /* Blanco hueso para textos */
+    --text-light: #fdfdfd;          /* Gris claro para textos secundarios */
+    --white: #dbdad8;               /* Blanco hueso */
     --shadow: 0 4px 20px rgba(0,0,0,0.7);
     --transition: all 0.3s ease;
 }
